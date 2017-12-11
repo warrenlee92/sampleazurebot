@@ -1,0 +1,15 @@
+{
+  "name": "diversusbot",
+  "version": "1.0.0",
+  "description": "Package file for the sample diversus bot",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "botbuilder": "^3.7.0",
+    "restify": "^4.3.0"
+  },
+  "author": "Warren Lee",
+  "license": "ISC"
+}
